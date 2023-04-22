@@ -1,0 +1,15 @@
+{
+  "name": "a04-clewis7",
+  "version": "0.0.1",
+  "description": "COMP 426 A04",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js --port=5555"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comp426-2023-spring/a04-clewis7.git"
+  },
+  "author": "clewis7",
+  "license": "GPL-3.0-or-later"
+}
